@@ -1,0 +1,6 @@
+{
+ "secret": "secretKeyHere",
+ "options": {
+   "expiresIn": "1d"
+ }
+}
